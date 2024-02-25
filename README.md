@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-trophies.vercel.app/?username=mchandr4&theme=onedark)](https://github.com/mchandr4/github-trophies)
+
+
