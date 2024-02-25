@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-trophies.vercel.app/?username=mchandr4&theme=onedark)](https://github.com/mchandr4/github-trophies)
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mchandr4&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchandr4&layout=compact" />
+</div>
+
 
