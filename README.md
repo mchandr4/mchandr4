@@ -22,8 +22,6 @@ Here are some ideas to get you started:
   <img src="https://github-trophies.vercel.app/?username=mchandr4&theme=radical&margin-w=4&margin-h=4">
 </a>
 
-*User achievement statistics by [Github Trophies](https://github.com/mchandr4/github-trophies)*
-
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
